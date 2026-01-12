@@ -1,4 +1,4 @@
-## Цель
+<img width="503" height="195" alt="image" src="https://github.com/user-attachments/assets/9c770d40-cbdc-4e1a-8c5a-816d7f464e8e" />## Цель
 Реализовать **прогнозирование оценки товара для пользователя** на основе метода **item-based collaborative filtering**.
 
 Задача включает:
@@ -7,5 +7,7 @@
 2. Выбор группы наиболее близких товаров по порогу или количеству.
 3. Усечение исходной матрицы для работы только с выбранными товарами.
 4. Прогнозирование оценки для пользователя по формуле:
-![Uploading image.png…]()
+<img width="683" height="276" alt="формула" src="https://github.com/user-attachments/assets/add26121-8346-48e3-acf7-cef10080b752" />
+
+
 
